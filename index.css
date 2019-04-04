@@ -1,0 +1,17 @@
+.jumbotron {
+    background-color:  rgba(40, 80, 0, 0.8);
+    /* opacity: .3; */
+}
+
+main {
+    background-image: url("tree.jpg");
+    background-size: cover;
+}
+
+.content {
+    color: white;
+    opacity: 1;
+}
+.fill{
+    height: 100vh;
+}
